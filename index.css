@@ -85,6 +85,11 @@ a:hover{
     text-align: left;
 
 }
+.photo{
+    width: 180px;
+    float: center;
+    margin : 15px 50px 15px 60px;
+}
 
 
 .photo1{
