@@ -1,0 +1,14 @@
+body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQllvhlcgp8JCkzVL6oefQF9R9XQkn4DWKCTQ&usqp=CAU);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;    
+    overflow-x: hidden;
+}
+a:hover{
+    font-size: x-large;
+}
+.mark{
+    list-style: url();
+}
